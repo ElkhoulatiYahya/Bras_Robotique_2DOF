@@ -12,9 +12,6 @@ Il permet de :
 
 Le projet est développé en **Python** et utilise des concepts de **robotique académique** et **cinématique différentielle**.
 
-    ![View](figures/bras_2dof.png)
-    ![Animation](figures/animation_2dof.mp4)
-
 ---
 ## Concepts utilisés
 
@@ -71,17 +68,6 @@ def calculer_jacobien_2dof(theta1, theta2, L1=10, L2=7):
 
 ---
 
-## Demonstration
-
-
-     ![](figures/reslt1.png)
-     
-     
-      ![](figures/reslt2.png)
-      
-      ![](figures/reslt3.png)
-      
-      ![](figures/reslt4.png)
 
 **Lien vers le Dépôt GitHub :** [https://github.com/ElkhoulatiYahya/Bras_Robotique_2DOF]
 
